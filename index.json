@@ -1,0 +1,11 @@
+{
+  "org": "certifi",
+  "repo": "ruby-certifi",
+  "versions": [
+    {
+      "commit": "101b2e2ed59c88b841050fc27a68f712f211d036",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:37:24.597205+00:00"
+    }
+  ]
+}
