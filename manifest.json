@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "certifi",
+  "repo": "ruby-certifi",
+  "versions": [
+    {
+      "commit": "101b2e2ed59c88b841050fc27a68f712f211d036",
+      "parsed_at": "2026-10-11T20:34:51.560737+00:00",
+      "filetree": "filetree/101b2e2ed59c88b841050fc27a68f712f211d036.nq.gz",
+      "blobs": [
+        "blob/a37b22e2d57c8167d29e4700f90d095ad7ea5158.nq.gz",
+        "blob/31cafb5d8865b0cff5237214f9f4401f9f453f10.nq.gz",
+        "blob/1f8776cad66452c742e518b5f07442267792fbd0.nq.gz",
+        "blob/cae1dec3abe0e53b5e9931b4827899fe8b5921e1.nq.gz",
+        "blob/e474204650242c21a62ce8c59153f77106324dab.nq.gz",
+        "blob/fb2a6c2c62b0b9a0def610db78f970e70ccbc59d.nq.gz",
+        "blob/19906abbab0eb8315c15378a15cbaf840bea55a1.nq.gz",
+        "blob/cc247abd5eafa4dbbd34f80099a59c0c5d5b12b2.nq.gz",
+        "blob/5900697866ce070e4a8d102cf529a1aa377cfdeb.nq.gz",
+        "blob/b5271f94ddcc12e2e7bb9f9de8d2e24afc4037e7.nq.gz",
+        "blob/802b53ff11e347c9bd2cabebeff5c51f716f1db9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
